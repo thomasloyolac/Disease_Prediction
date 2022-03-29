@@ -6342,11 +6342,7 @@ def predict():
             s4_spinning_movements,
             s4_scurring,
             s4_continuous_feel_of_urine,
-            s4_silver_like_dusting,
-            s4_small_dents_in_nails,
-            s4_red_sore_around_nose,
-            s4_yellow_crust_ooze
-
+             
         ]])
 
         output=prediction[0]
