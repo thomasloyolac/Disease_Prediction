@@ -2041,7 +2041,7 @@ def predict():
             s2_blister=1
 
 
-         symptom_3=request.form['symptom_3']
+        symptom_3=request.form['symptom_3']
         if(symptom_3=='nodal skin eruptions'):
 
             s3_nodal_skin_eruptions=1
